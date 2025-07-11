@@ -96,11 +96,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Meta
+theme: anzhiyu
 
 # Deployment
-  ## Docs: https://hexo.io/docs/deployment.html
-  deploy:
-      type: git
-      repo: git@github.com:username/username.github.io.git
-      branch: master
+# Deployment
+deploy:
+  type: git
+  repo: git@github.com:MetaingCoder/MetaingCoder.github.io.git
+  branch: main
